@@ -1,2 +1,35 @@
-﻿@charset "UTF-8";
+@cherset="UTF-8"
 
+/*リンクの指定*/
+a:link{color:#e9ae4d;}
+a:visited{color:#e7a5fb4;}
+a:hover{color:#7ad87c;}
+a:active{color:#f75dcc;}
+
+/*.action{
+	border:1px solid #ddd;
+	padding:10px 5px;
+}
+
+.sf{
+	border:1px solid #ddd;
+	padding:10px 5px;
+}
+
+.comedy{
+	border:1px solid #ddd;
+	padding:10px 5px;
+}
+
+.horror{
+	border:1px solid #ddd;
+	padding:10px 5px;
+}*/
+
+/*サイドバー指定*/
+.sideber{
+	border:1px solid #ddd;
+	padding:0 0;
+	position:fixed;
+	left: 0;
+}
