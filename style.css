@@ -6,6 +6,10 @@ a:visited{color:#e7a5fb4;}
 a:hover{color:#7ad87c;}
 a:active{color:#f75dcc;}
 
+body{
+			background-image:url(../img/back.jpg);
+}
+
 /*.action{
 	border:1px solid #ddd;
 	padding:10px 5px;
